@@ -12,33 +12,33 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/pyradio/main/assets/pyradio.png"/>
+  <img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/pyradio/main/assets/pyradio-latte.png"/>
+  <img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/pyradio/main/assets/pyradio-frappe.png"/>
+  <img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/pyradio/main/assets/pyradio-macchiato.png"/>
+  <img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/pyradio/main/assets/pyradio-mocha.png"/>
+  <img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Clone this repository locally
-2. Copy themes from `src` to: `~/.config/pyradio/themes` (for Linux & MacOS) or `%APPDATA%/pyradio/themes` (for Windows) - create directory if not exist
-3. Open PyRadio, press "t", choose theme in *Theme selection window* and press "SPACE" to apply theme and make it default
+1. Copy your preferred flavor(s) from [`src/`](./src/) to either `~/.config/pyradio/themes` on Linux/macOS or `%APPDATA%/pyradio/themes` on Windows.
+2. Open PyRadio.
+3. Press <kbd>t</kbd>, choose your flavor in the _Theme selection window_,and press <kbd>SPACE</kbd> to apply the theme and make it default.
 
 ## 💝 Thanks to
 
